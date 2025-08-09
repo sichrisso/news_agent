@@ -93,17 +93,6 @@ These enrichments enable more nuanced queries and analyses.
 * "What is the distribution of news articles published each year?"
 * "Summarize the following news article: \[...]"
 
-## Development Notes
 
-* The project requires Python 3.8+.
-* The summarization feature uses Hugging Face transformers (`facebook/bart-large-cnn`).
-* Ensure you have a valid Groq API key set as an environment variable.
-* Logging is enabled for easier debugging.
 
-## License
 
-MIT License
-
----
-
-If you want me to generate a `requirements.txt` based on your imports, just let me know!
