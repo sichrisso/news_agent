@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pandas
+python-dotenv
+sentence-transformers
+chromadb
+langchain-groq
+httpx
+fuzzywuzzy
+scikit-learn
+matplotlib
+seaborn
+transformers
+torch
+pydantic
